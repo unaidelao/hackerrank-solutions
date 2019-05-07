@@ -9,14 +9,16 @@ import java.util.regex.*;
 /**
  * Apple and Orange.
  *
- * Sam's house has an apple tree and an orange tree that yield an abundance of fruit. In the
- * diagram below, the red region denotes his house, where s is the start point, and t is the
- * endpoint. The apple tree is to the left of his house, and the orange tree is to its right.
- * You can assume the trees are located on a single point, where the apple tree is at point a,
- * and the orange tree is at point b.
+ * Sam's house has an apple tree and an orange tree that yield an abundance of
+ * fruit. In the diagram below, the red region denotes his house, where s is the
+ * start point, and t is the endpoint. The apple tree is to the left of his
+ * house, and the orange tree is to its right. You can assume the trees are
+ * located on a single point, where the apple tree is at point a, and the orange
+ * tree is at point b.
  *
- * Complete the countApplesAndOranges function in the editor below. It should print the number of
- * apples and oranges that land on Sam's house, each on a separate line.
+ * Complete the countApplesAndOranges function in the editor below. It should
+ * print the number of apples and oranges that land on Sam's house, each on a
+ * separate line.
  * 
  * @author Unai de la O
  */
